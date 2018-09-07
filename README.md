@@ -4,9 +4,7 @@ The tweak for jailbroken devices that gives our favorite package manager, Cydia,
 # Credits
 This tweak was originally made by ArtikusHG and continued by me (EvenDev).
 I would like to thank everyone that helped me make this tweak:
-ArtikusHG (@artikus_hg),
-Max Bridgeland (@maxbridgeland),
-Squiddy (@squ1dd13) 
+ArtikusHG (@artikus_hg), Max Bridgeland (@maxbridgeland) and Squiddy (@squ1dd13) 
 
 # License
 
