@@ -1,0 +1,9 @@
+Package: com.example.cydiaxidark
+Name: CydiaXI Dark Mode
+Depends: com.example.cydiaxi
+Version: 1.0
+Architecture: iphoneos-arm
+Description: My CydiaXI Dark Mode extension!
+Maintainer: Developer
+Author: Developer
+Section: CydiaXI

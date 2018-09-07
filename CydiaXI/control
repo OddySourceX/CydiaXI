@@ -1,0 +1,9 @@
+Package: com.example.cydiaxi
+Name: CydiaXI
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is my remastered version of CydiaXI!
+Maintainer: Developer
+Author: Developer
+Section: CydiaXI
